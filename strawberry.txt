@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Ramón García
 
@@ -54,3 +55,8 @@ heartbreaks, family attachments, strawberries,
 Every ranchera houses memories
 the blissful plaintiveness
             of living fully.
+=======
+hop
+hop
+hop
+>>>>>>> 8ed6d671cfe7386441ba4acdbe856838b5218016
